@@ -19,5 +19,6 @@
 
 <p align="center">
   <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=Praharsh-T)](https://github.com/Praharsh-T/github-profile-trophy)"/>
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Praharsh-T&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Praharsh-T&theme=dracula&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  
 </p>
