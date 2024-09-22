@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praharsh</h1>
 <h3 align="center">Curious Learner at Canara Engineering College || CSE</h3>
 
-- 🔭 I’m currently working on **Miniprojects!!**
+- 🔭 I’m currently working on **Major Projects!!**
 
 - 🌱 I’m currently learning **React JS, Next JS , Java**
 
